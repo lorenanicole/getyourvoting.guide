@@ -5,7 +5,7 @@ Get your Election 2020 Voting Guide here!
 
 ## Add a voting guide
 
-If you have a voting guide you would like to add, open a pull request and include:
+If you have a voting guide you would like to add, open a pull request and include the following information in the `index.html`:
 
 - Link to voting guide
 - Explanation if it is partisan or not
