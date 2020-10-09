@@ -123,10 +123,10 @@ ul {
 }
 @media all and (max-width:381px) and (min-width:200px){
     .head-main{
-        font-size:38px
+        font-size:50px
     }
     .head-last{
-        font-size:30px
+        font-size:40px
     }
     #home-sec{
     	background:url(../images/ballot-card.jpg) no-repeat 50% 50%;
