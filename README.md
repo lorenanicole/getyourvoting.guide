@@ -34,3 +34,8 @@ If the guide you wish to add already has a state listed, simply insert a new `li
 ```
                   <li><h3>New Non-Partisan Guide<a href="https://link-to-guide.com/"> by organization X</a></h3></li>
 ```
+
+
+## Questions & Attributions
+
+You can reach me on [social](https://twitter.com/loooorenanicole) for questions or by opening an issue. To attribute the guide, include a link to the repository. If sharing on social, I'd appreciate a mention with `#GetYourVotingGuide`! 
