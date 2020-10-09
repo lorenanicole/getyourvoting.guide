@@ -128,7 +128,8 @@ ul {
 }
 @media all and (max-width:381px) and (min-width:200px){
     .head-main{
-        font-size:70px
+        font-size:80px;
+        padding:0;
     }
     .head-last{
         font-size:60px
