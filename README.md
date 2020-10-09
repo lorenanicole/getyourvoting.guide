@@ -1,7 +1,6 @@
 # getyourvoting.guide
 
-Get your Election 2020 Voting Guide here!
-
+Get your Election 2020 Voting Guide here! The voting guides included are progressive minded voting guides to help you in casting your ballot for USA Election 2020 on November 3 2020.
 
 ## Add a voting guide
 
