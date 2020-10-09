@@ -121,6 +121,10 @@ ul {
     .head-last{
         font-size:20px
     }
+    #home-sec{
+        background:url(../images/ballot-small.jpg) no-repeat 50% 50%;
+        min-height:300px;
+    }
 }
 @media all and (max-width:381px) and (min-width:200px){
     .head-main{
@@ -130,7 +134,7 @@ ul {
         font-size:60px
     }
     #home-sec{
-    	background:url(../images/ballot-card.jpg) no-repeat 50% 50%;
+    	background:url(../images/ballot-square.jpg) no-repeat 50% 50%;
     	min-height:300px;
 	}
 }
